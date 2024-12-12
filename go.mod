@@ -1,4 +1,4 @@
-module github.com/graymeta/stow
+module github.com/Wethos-AI/stow
 
 go 1.14
 
