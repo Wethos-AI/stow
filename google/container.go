@@ -8,7 +8,7 @@ import (
 	"github.com/pkg/errors"
 	"google.golang.org/api/iterator"
 
-	"github.com/graymeta/stow"
+	"github.com/Wethos-AI/stow"
 )
 
 type Container struct {
@@ -33,7 +33,7 @@ func (c *Container) Name() string {
 }
 
 // Bucket returns the google bucket attributes
-func (c *Container) Bucket() *storage.BucketHandle{
+func (c *Container) Bucket() *storage.BucketHandle {
 	return c.client.Bucket(c.name)
 }
 

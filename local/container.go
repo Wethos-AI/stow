@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/graymeta/stow"
+	"github.com/Wethos-AI/stow"
 )
 
 type container struct {

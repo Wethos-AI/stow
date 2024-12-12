@@ -5,8 +5,8 @@ import (
 	"net/url"
 	"testing"
 
+	"github.com/Wethos-AI/stow"
 	"github.com/cheekybits/is"
-	"github.com/graymeta/stow"
 )
 
 func TestKindByURL(t *testing.T) {

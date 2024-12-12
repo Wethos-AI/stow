@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/graymeta/stow"
+	"github.com/Wethos-AI/stow"
 	"gopkg.in/kothar/go-backblaze.v0"
 )
 

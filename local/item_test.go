@@ -9,9 +9,9 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/Wethos-AI/stow"
+	"github.com/Wethos-AI/stow/local"
 	"github.com/cheekybits/is"
-	"github.com/graymeta/stow"
-	"github.com/graymeta/stow/local"
 )
 
 func TestItemReader(t *testing.T) {

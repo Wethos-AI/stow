@@ -8,8 +8,8 @@ import (
 
 	"github.com/cheekybits/is"
 
-	"github.com/graymeta/stow"
-	"github.com/graymeta/stow/test"
+	"github.com/Wethos-AI/stow"
+	"github.com/Wethos-AI/stow/test"
 )
 
 func TestStow(t *testing.T) {

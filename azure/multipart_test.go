@@ -7,8 +7,8 @@ import (
 	"os"
 	"testing"
 
+	"github.com/Wethos-AI/stow"
 	"github.com/cheekybits/is"
-	"github.com/graymeta/stow"
 )
 
 func TestChunkSize(t *testing.T) {

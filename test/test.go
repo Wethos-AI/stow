@@ -17,8 +17,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Wethos-AI/stow"
 	"github.com/cheekybits/is"
-	"github.com/graymeta/stow"
 )
 
 // All runs a generic suite of tests for Stow storage

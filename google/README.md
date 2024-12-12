@@ -13,8 +13,8 @@ Use a type conversion to extract the underlying `Location`, `Container`, or `Ite
 ```go
 import (
   "log"
-  "github.com/graymeta/stow"
-  stowgs "github.com/graymeta/stow/google"
+  "github.com/Wethos-AI/stow"
+  stowgs "github.com/Wethos-AI/stow/google"
 )
 
 stowLoc, err := stow.Dial(stowgs.Kind, stow.ConfigMap{
